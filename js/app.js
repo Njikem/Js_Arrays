@@ -14,3 +14,9 @@ let middle_user_age = [35,25, 39, 40, 45];
 let age = middle_user_age[3];
 console.log(age);
 
+
+first_user_name.push(`Gladis`);
+last_user_name.push(`Enestine`);
+
+let last_user_age = middle_user_age.pop(45);
+
